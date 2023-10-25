@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      allowOverride: false
+      overrideNone: true
+      overrideSystemProperties: false
