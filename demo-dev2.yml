@@ -1,6 +1,10 @@
 spring:
+  profile: "dev2"
   cloud:
     config:
       allowOverride: false
       overrideNone: true
       overrideSystemProperties: false
+
+
+  
